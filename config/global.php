@@ -12,13 +12,13 @@ define("PRO_NOMBRE","Mckenneth");
 define("DB_HOST","localhost");
 
 //Nombre de la base de datos
-define("DB_NAME", "riverare_puntoventadb");
+define("DB_NAME", "puntodeventadb");
 
 //Usuario de la base de datos
-define("DB_USERNAME", "riverare_puntoventaus");
+define("DB_USERNAME", "root");
 
 //Contraseña del usuario de la base de datos
-define("DB_PASSWORD", "5zm)XSY?h)k?");
+define("DB_PASSWORD", "");
 
 
 const URL = "https://floresrivera.com/proyectos/ingefact";
